@@ -14,11 +14,13 @@ It supports user account creation, secure sign-in, and database-backed storage o
 ✔ Customer table auto-creation
 
 🗂 Project Structure
+
 ├── main.py
 ├── register.py
 ├── customer.py
 ├── database.py
-└── bank.py   (expected but not uploaded — referenced in register.py)
+└── bank.py   
+
 
 File Responsibilities
 File	Purpose
